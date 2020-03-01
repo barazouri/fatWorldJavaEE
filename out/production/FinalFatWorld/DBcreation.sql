@@ -1,0 +1,10 @@
+
+CREATE database fat_world;
+
+CREATE TABLE IF NOT EXISTS fat_world.users (
+ id BIGINT AUTO_INCREMENT,
+ user_name VARCHAR(255) NOT NULL,
+ email VARCHAR(255)NOT NULL,
+ password VARCHAR(255) NOT NULL,
+ CONSTRAINT pk_users PRIMARY KEY (id,email)
+)ENGINE=INNODB;

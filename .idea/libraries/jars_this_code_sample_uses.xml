@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jars_this_code_sample_uses">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars_this_code_sample_uses/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars_this_code_sample_uses/protobuf-java-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars_this_code_sample_uses/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars_this_code_sample_uses/mysql-connector-java-8.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars_this_code_sample_uses/junit-4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars_this_code_sample_uses/mysql-connector-java-5.1.13-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
